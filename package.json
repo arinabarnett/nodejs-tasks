@@ -1,0 +1,16 @@
+{
+  "name": "lad-tasks",
+  "version": "1.0.0",
+  "description": "Lad test tasks",
+  "author": "Arina Shilyaeva",
+  "scripts": {
+    "quiz": "node quiz.js",
+    "bulls-and-cows": "node bulls-and-cows.js",
+    "rpg-battle": "node rpg-battle.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {}
+}
